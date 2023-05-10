@@ -1,0 +1,1 @@
+import{_ as s,p as a,q as t,R as e,t as o}from"./framework-5866ffd3.js";const c={},r=e("h1",{id:"ospf-sla",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ospf-sla","aria-hidden":"true"},"#"),o(" ospf sla")],-1),_=[r];function n(l,d){return a(),t("div",null,_)}const i=s(c,[["render",n],["__file","ospf_lsa.html.vue"]]);export{i as default};

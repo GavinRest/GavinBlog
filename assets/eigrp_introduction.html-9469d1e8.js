@@ -1,0 +1,1 @@
+import{_ as t,p as r,q as o,R as e,t as a}from"./framework-5866ffd3.js";const c={},i=e("h1",{id:"eigrp-简介",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#eigrp-简介","aria-hidden":"true"},"#"),a(" eigrp 简介")],-1),n=[i];function s(_,d){return r(),o("div",null,n)}const l=t(c,[["render",s],["__file","eigrp_introduction.html.vue"]]);export{l as default};

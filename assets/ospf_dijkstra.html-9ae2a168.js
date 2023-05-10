@@ -1,0 +1,1 @@
+import{_ as s,p as t,q as a,R as e,t as r}from"./framework-5866ffd3.js";const o={},c=e("h1",{id:"ospf-dijkstra-算法",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ospf-dijkstra-算法","aria-hidden":"true"},"#"),r(" ospf Dijkstra 算法")],-1),_=[c];function d(i,n){return t(),a("div",null,_)}const h=s(o,[["render",d],["__file","ospf_dijkstra.html.vue"]]);export{h as default};

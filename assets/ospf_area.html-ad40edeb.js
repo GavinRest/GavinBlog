@@ -1,0 +1,1 @@
+import{_ as a,p as s,q as t,R as e,t as o}from"./framework-5866ffd3.js";const r={},c=e("h1",{id:"ospf-区域",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ospf-区域","aria-hidden":"true"},"#"),o(" ospf 区域")],-1),_=[c];function n(d,f){return s(),t("div",null,_)}const h=a(r,[["render",n],["__file","ospf_area.html.vue"]]);export{h as default};

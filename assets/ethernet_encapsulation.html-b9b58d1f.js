@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6fd05676","path":"/nt/tcpip/layer2/ethernet_encapsulation.html","title":"以太网封装","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683721308000,"contributors":[{"name":"Seven","email":"996414666@qq.com","commits":1}]},"filePathRelative":"nt/tcpip/layer2/ethernet_encapsulation.md"}');export{e as data};

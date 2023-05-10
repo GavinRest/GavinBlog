@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-76d5fc40","path":"/nt/tcpip/layer2/lacp.html","title":"链路聚合","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683721308000,"contributors":[{"name":"Seven","email":"996414666@qq.com","commits":1}]},"filePathRelative":"nt/tcpip/layer2/lacp.md"}');export{t as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as a,R as e,t as s}from"./framework-5866ffd3.js";const c={},o=e("h3",{id:"操作系统",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#操作系统","aria-hidden":"true"},"#"),s(" 操作系统")],-1),r=e("ul",null,[e("li",null,"linux readme")],-1),_=[o,r];function d(l,i){return n(),a("div",null,_)}const u=t(c,[["render",d],["__file","index.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as r,R as e,t as c}from"./framework-5866ffd3.js";const n={},s=e("h1",{id:"layer2-协议简介",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#layer2-协议简介","aria-hidden":"true"},"#"),c(" layer2 协议简介")],-1),o=[s];function _(d,i){return t(),r("div",null,o)}const h=a(n,[["render",_],["__file","index.html.vue"]]);export{h as default};

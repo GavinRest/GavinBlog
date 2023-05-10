@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1e57f3ab","path":"/nt/tcpip/layer3/eigrp_introduction.html","title":"eigrp 简介","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683721308000,"contributors":[{"name":"Seven","email":"996414666@qq.com","commits":1}]},"filePathRelative":"nt/tcpip/layer3/eigrp_introduction.md"}');export{t as data};

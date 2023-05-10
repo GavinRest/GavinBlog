@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1048a05d","path":"/nt/tcpip/layer3/ospf_area.html","title":"ospf 区域","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683721308000,"contributors":[{"name":"Seven","email":"996414666@qq.com","commits":1}]},"filePathRelative":"nt/tcpip/layer3/ospf_area.md"}');export{e as data};

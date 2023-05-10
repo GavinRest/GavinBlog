@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as o,R as e,t as a}from"./framework-5866ffd3.js";const r={},s=e("h1",{id:"计算机发展史",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#计算机发展史","aria-hidden":"true"},"#"),a(" 计算机发展史")],-1),n=e("p",null,"测试",-1),_=[s,n];function d(i,l){return c(),o("div",null,_)}const u=t(r,[["render",d],["__file","computer.html.vue"]]);export{u as default};
